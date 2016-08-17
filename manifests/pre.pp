@@ -1,4 +1,4 @@
-class puppet-firewall-templates::pre {
+class firewall_templates::pre {
   Firewall {
     require => undef,
   }
